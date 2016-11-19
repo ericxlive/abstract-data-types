@@ -62,3 +62,4 @@ class Queue:
         be None. """
     def is_empty(self):
         return self.head is None
+    
