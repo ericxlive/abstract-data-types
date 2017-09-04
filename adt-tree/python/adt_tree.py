@@ -2,7 +2,7 @@
 """ This class represents a TreeNode of a Tree Data Structure TAD. """
 class TreeNode:
 
-    """ The TreeNode is initiated with a Single Value to represents it as a Key. """
+    """ The TreeNode is initiated with a single value to represents it as a Key. """
     def __init__(self, value=None):
         self.value = value
         self.children = []
